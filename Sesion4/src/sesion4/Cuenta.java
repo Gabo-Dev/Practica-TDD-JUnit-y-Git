@@ -10,7 +10,4 @@ public class Cuenta {
     public  void ingreso(double dinero){
         System.out.println("Usted va a ingresar " + dinero + "$");
     }
-    public  void reintegro(double cantidad){
-         System.out.println("Usted va a retirar " + cantidad + "$");
-    }
 }
